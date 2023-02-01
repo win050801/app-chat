@@ -1,0 +1,3 @@
+[submodule "appchat_client"]
+	path = appchat_client
+	url = https://github.com/win050801/appchat_client_update
